@@ -1,0 +1,1 @@
+from fttransformer_mask.models.ft_transformer import FTTransformer

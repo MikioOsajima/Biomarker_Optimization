@@ -1,0 +1,1 @@
+from fttransformer.models.ft_transformer import FTTransformer
